@@ -3,7 +3,6 @@
 
 # Ejercicio Github con Bash
 
-    Fecha de entrega No hay fecha de entrega Puntos 0
 
 Consigna:
 
