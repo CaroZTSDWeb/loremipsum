@@ -1,8 +1,5 @@
 
-#Crea un nuevo commit en la rama "generarlipsum" sumando el nuevo archivo "contar.sh"
-#Realiza un merge de tu rama "generarlipsum" a la rama principal de tu repositorio usando una Pull Request.
-
-#Crear un archivo contar.sh para contar las líneas de archivos .txt, se utiliza un bucle for para recorrer todos 
+#Crear un archivo contar.sh para contar las líneas de archivos .txt. Se utiliza un bucle for para recorrer todos 
 #los archivos .txt en el directorio actual, y dentro del bucle, el comando wc -l para contar
 #las líneas de cada archivo y mostrar el resultado. 
 
