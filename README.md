@@ -1,4 +1,4 @@
-# Programa XAcademy Devs 2025.
+# Programa XAcademy Dev 2025.
 
 # loremipsum
 
