@@ -1,4 +1,4 @@
-# Programa XAcademy Dev 2025.
+# Programa XAcademy Dev 2026.
 
 # loremipsum
 
@@ -24,6 +24,7 @@ Consigna:
           loremipsum-3.txt tiene 15 líneas.
           loremipsum-4.txt tiene 7 líneas.
           loremipsum-5.txt tiene 16 líneas.
+          
     Crea un nuevo commit en la rama "generarlipsum" sumando el nuevo archivo "contar.sh"
     Realiza un merge de tu rama "generarlipsum" a la rama principal de tu repositorio usando una Pull Request.
 
