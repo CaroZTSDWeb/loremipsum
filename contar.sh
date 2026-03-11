@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Configurar Bash para que ignore patrones vacíos
+shopt -s nullglob 
+
 # Recorre todos los archivos .txt en el directorio actual
 for archivo in *.txt; do
   # Verifica si el archivo existe antes de procesarlo
